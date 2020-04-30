@@ -1,0 +1,122 @@
+[
+  {
+    "Rank": "1",
+    "Title": "The Shawshank Redemption",
+    "Year": "(1994)",
+    "Rating": "9.2"
+  },
+  {
+    "Rank": "2",
+    "Title": "The Godfather",
+    "Year": "(1972)",
+    "Rating": "9.2"
+  },
+  {
+    "Rank": "3",
+    "Title": "The Godfather: Part II",
+    "Year": "(1974)",
+    "Rating": "9.0"
+  },
+  {
+    "Rank": "4",
+    "Title": "The Dark Knight",
+    "Year": "(2008)",
+    "Rating": "9.0"
+  },
+  {
+    "Rank": "5",
+    "Title": "12 Angry Men",
+    "Year": "(1957)",
+    "Rating": "8.9"
+  },
+  {
+    "Rank": "6",
+    "Title": "Schindler's List",
+    "Year": "(1993)",
+    "Rating": "8.9"
+  },
+  {
+    "Rank": "7",
+    "Title": "Pulp Fiction",
+    "Year": "(1994)",
+    "Rating": "8.9"
+  },
+  {
+    "Rank": "8",
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "(2003)",
+    "Rating": "8.9"
+  },
+  {
+    "Rank": "9",
+    "Title": "The Good, the Bad and the Ugly",
+    "Year": "(1966)",
+    "Rating": "8.8"
+  },
+  {
+    "Rank": "10",
+    "Title": "Fight Club",
+    "Year": "(1999)",
+    "Rating": "8.8"
+  },
+  {
+    "Rank": "11",
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": "(2001)",
+    "Rating": "8.8"
+  },
+  {
+    "Rank": "12",
+    "Title": "Forrest Gump",
+    "Year": "(1994)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "13",
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Year": "(1980)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "14",
+    "Title": "Inception",
+    "Year": "(2010)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "15",
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": "(2002)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "16",
+    "Title": "One Flew Over the Cuckoo's Nest",
+    "Year": "(1975)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "17",
+    "Title": "Goodfellas",
+    "Year": "(1990)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "18",
+    "Title": "The Matrix",
+    "Year": "(1999)",
+    "Rating": "8.7"
+  },
+  {
+    "Rank": "19",
+    "Title": "Seven Samurai",
+    "Year": "(1954)",
+    "Rating": "8.6"
+  },
+  {
+    "Rank": "20",
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Year": "(1977)",
+    "Rating": "8.6"
+  }
+]
